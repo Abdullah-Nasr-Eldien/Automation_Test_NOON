@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Noun Automation Script
 
 Selenium and TestNG automation for Noon Egypt, using Maven and Java 21.
@@ -51,3 +52,6 @@ src/
 └── test/
     └── java/tests/        # TestNG test classes
 ```
+=======
+# Automation_Test_NOON
+>>>>>>> 1bf2b2bfd22bfcd9f0fd90f4457a62d294512ded
