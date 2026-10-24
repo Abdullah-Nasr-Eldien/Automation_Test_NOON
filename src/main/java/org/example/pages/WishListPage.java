@@ -13,11 +13,7 @@ public class WishListPage {
     // locators
     private final By search_bar = By.id("search-input");
     private final By wishlistButton = By.xpath(
-            "//a[@href='/egypt-en/r50i-nc-by-anker-noise-cancelling-earbuds-stron" +
-                    "g-and-smart-noise-cancelling-powerful-bass-45h-playtime-2-in-1-case-and-p" +
-                    "hone-stand-ip54-wireless-earbuds-bluetooth-5-4-app-control-black/N70147950V/" +
-                    "p/?o=a2627bbc6c0ccdeb']/ancestor::div[@data-qa='plp-product-box']//button[conta" +
-                    "ins(@class,'_wishlistButton_18ok4_1')]"
+            "//div[@data-qa='plp-product-box'][.//a[contains(@href,'/N70147950V/p/')]]//button[.//img[@alt='Wishlist']]"
     );
     private final By plusIcon = By.cssSelector("span._iconButton_e1p6v_224 img[src*='plus-blue.svg']");
     private final By headerwlBtn = By.cssSelector("a[data-qa='btn_wishlistLink-Header-Desktop']");

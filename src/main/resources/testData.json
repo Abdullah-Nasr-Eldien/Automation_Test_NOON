@@ -1,0 +1,18 @@
+{
+
+  "wishlist": {
+    "productName": "R50i NC by Anker Noise Cancelling Earbuds, Strong and Smart Noise Cancelling, Powerful Bass, 45H Playtime, 2-in-1 Case and Phone Stand, IP54, Wireless Earbuds, Bluetooth 5.4, App Control Black",
+    "expectedMessage": "Added to wishlist"
+  },
+  "proceedPayment": {
+    "productName": "R50i NC by Anker Noise Cancelling Earbuds, Strong and Smart Noise Cancelling, Powerful Bass, 45H Playtime, 2-in-1 Case and Phone Stand, IP54, Wireless Earbuds, Bluetooth 5.4, App Control Black",
+    "addressSearch": "new cairo",
+    "roomNumber": "apartment 2, floor 3",
+    "streetName": "street 2",
+    "nickname": "Home",
+    "directions": "directions 2",
+    "receiverFirstName": "John",
+    "receiverLastName": "Doe",
+    "receiverPhone": "01114967266"
+  }
+}
